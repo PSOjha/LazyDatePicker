@@ -17,7 +17,7 @@ This is an Android project to offer an alternative to the native Android Date Pi
 </a>
 
 USAGE
------
+-------
 
 To make a lazy date picker add LazyDatePicker in your layout XML and add LazyDatePicker library in your project or you can also grab it via Gradle:
 
